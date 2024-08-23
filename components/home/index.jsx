@@ -1,8 +1,8 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 
-export default function App() {
-  return (
+export default function Home() {
+    return (
     <View style={styles.mainContainer}>
       <View style={styles.subContainer1}>
         <Text>Hello World!!</Text>
